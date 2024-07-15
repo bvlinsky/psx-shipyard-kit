@@ -3,7 +3,7 @@
 ![Retro PSX Style Shipyard Kit](/showcase/showcase-1.jpg)
 
 This kit contains:
-- create (2 styles)
+- crate (2 styles)
 - container (1 style)
 - barrel (1 style)
 
