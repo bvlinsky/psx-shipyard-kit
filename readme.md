@@ -6,8 +6,11 @@ This kit contains:
 - crate (2 styles)
 - container (1 style)
 - barrel (1 style)
+- warehouse (1 style)
 
 and more coming!
+
+![Shipyard Kit showcase 2](/showcase/showcase-2.png)
 
 ## License
 
